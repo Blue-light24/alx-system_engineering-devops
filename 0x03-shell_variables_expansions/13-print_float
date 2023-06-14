@@ -1,0 +1,2 @@
+#!/bin/bach
+printf "0.2%f\n" $NUM
